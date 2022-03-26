@@ -17,3 +17,6 @@
 }
 
 /* Aqui se especificara que fuente utilizara cada uno  */
+.fontVictor {
+  font-family: 'Victor Mono', monospace; /* fuente de Victor */
+}
