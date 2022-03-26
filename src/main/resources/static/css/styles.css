@@ -1,0 +1,19 @@
+.footer {
+  padding: 1px;
+
+  width: 100%;
+}
+
+.footerspace {
+  min-height: calc(100vh - 211px - 58px);
+}
+
+.tarjeta {
+  border: 1px solid lightgray;
+  border-radius: 11px;
+  padding: 22px;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px lightgray;
+}
+
+/* Aqui se especificara que fuente utilizara cada uno  */
